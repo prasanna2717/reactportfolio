@@ -1,0 +1,12 @@
+.about-section {
+  background-color: #f9f9f9;
+  min-height: 80vh;
+}
+
+.about-list {
+  max-width: 600px;
+  font-size: 1.1rem;
+  color: #333;
+  line-height: 1.6;
+  padding-left: 1.2rem;
+}

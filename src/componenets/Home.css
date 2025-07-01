@@ -1,0 +1,56 @@
+.home-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  padding: 2rem;
+  background-color: #fefefe;
+  color: #333;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  flex: 1;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.home-left {
+  flex: 1;
+  text-align: center;
+}
+
+.profile-img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.home-right {
+  flex: 1;
+  max-width: 500px;
+}
+
+.home-right h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.home-right p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.home-footer {
+  text-align: center;
+  padding: 1rem 0;
+  border-top: 1px solid #ddd;
+  font-size: 0.9rem;
+  color: #666;
+}
