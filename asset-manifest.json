@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b69ea16d.css",
+    "main.js": "/portfolio/static/js/main.211ea2b9.js",
+    "static/js/453.c25f43ab.chunk.js": "/portfolio/static/js/453.c25f43ab.chunk.js",
+    "static/media/ChatGPT Image Jun 26, 2025, 12_52_15 PM.png": "/portfolio/static/media/ChatGPT Image Jun 26, 2025, 12_52_15 PM.f5f62b68fbfa4f597352.png",
+    "static/media/ChatGPT Image Jun 26, 2025, 12_57_19 PM.png": "/portfolio/static/media/ChatGPT Image Jun 26, 2025, 12_57_19 PM.e8a430bf3799cceb7ce3.png",
+    "static/media/ChatGPT Image Jun 26, 2025, 01_07_13 PM.png": "/portfolio/static/media/ChatGPT Image Jun 26, 2025, 01_07_13 PM.ce6d0c7c2017f0fe2036.png",
+    "static/media/WhatsApp Image 2025-06-26 at 12.52.35 PM.jpeg": "/portfolio/static/media/WhatsApp Image 2025-06-26 at 12.52.35 PM.ce850f6edc7c9197b947.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.b69ea16d.css.map": "/portfolio/static/css/main.b69ea16d.css.map",
+    "main.211ea2b9.js.map": "/portfolio/static/js/main.211ea2b9.js.map",
+    "453.c25f43ab.chunk.js.map": "/portfolio/static/js/453.c25f43ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b69ea16d.css",
+    "static/js/main.211ea2b9.js"
+  ]
+}
