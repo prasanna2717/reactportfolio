@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/prasanna-portfolio/static/css/main.b69ea16d.css",
-    "main.js": "/prasanna-portfolio/static/js/main.d90c98c9.js",
+    "main.js": "/prasanna-portfolio/static/js/main.f8c1d955.js",
     "static/js/453.c25f43ab.chunk.js": "/prasanna-portfolio/static/js/453.c25f43ab.chunk.js",
     "static/media/ChatGPT Image Jun 26, 2025, 12_52_15 PM.png": "/prasanna-portfolio/static/media/ChatGPT Image Jun 26, 2025, 12_52_15 PM.f5f62b68fbfa4f597352.png",
     "static/media/ChatGPT Image Jun 26, 2025, 12_57_19 PM.png": "/prasanna-portfolio/static/media/ChatGPT Image Jun 26, 2025, 12_57_19 PM.e8a430bf3799cceb7ce3.png",
@@ -9,11 +9,11 @@
     "static/media/WhatsApp Image 2025-06-26 at 12.52.35 PM.jpeg": "/prasanna-portfolio/static/media/WhatsApp Image 2025-06-26 at 12.52.35 PM.ce850f6edc7c9197b947.jpeg",
     "index.html": "/prasanna-portfolio/index.html",
     "main.b69ea16d.css.map": "/prasanna-portfolio/static/css/main.b69ea16d.css.map",
-    "main.d90c98c9.js.map": "/prasanna-portfolio/static/js/main.d90c98c9.js.map",
+    "main.f8c1d955.js.map": "/prasanna-portfolio/static/js/main.f8c1d955.js.map",
     "453.c25f43ab.chunk.js.map": "/prasanna-portfolio/static/js/453.c25f43ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b69ea16d.css",
-    "static/js/main.d90c98c9.js"
+    "static/js/main.f8c1d955.js"
   ]
 }
